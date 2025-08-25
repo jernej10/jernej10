@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Jernej! 👋
+
+I'm a software developer based in Slovenia, Europe with expertise in **Full Stack Development** and **Design**.
+
+- 🎓 Currently pursuing a Master's degree in Informatics
+- 💻 Skilled in Full Stack Development
+- 🎨 Design enthusiast
+- 🚀 Quick and effective learner of new technologies
 
 <!--
 **jernej10/jernej10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
